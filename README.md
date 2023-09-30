@@ -57,7 +57,7 @@ Now, sit back and let the **Flutter Environment Generator CLI Tool** simplify th
 
 4. Run Your App On Vscode By Using Vscode Runner
 
-![Runner](/screenshoots/vscode%20runner.png)
+![Runner](https://github.com/muhAzri/flutter_environment_generator/blob/main/screenshoots/vscode%20runner.png?raw=true)
 
 or you can simply use this command in Terminal 
 
@@ -106,29 +106,37 @@ You Can Edit the resValue for changing the App Label
 
 ## IOS Extra Config
 1. Open Your IOS Folder in XCODE
-![OpenXcode](/screenshoots/open-xcode.png)
+
+![OpenXcode](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/open-xcode.png)
 
 2. Select Scheme at First it will be only 1 Scheme Called Runner
-![InitScheme](/screenshoots/scheme-first.png)
+
+![InitScheme](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/scheme-first.png)
 
 3. Duplicate Existing Scheme Into 3 Scheme and Rename all into like this(dev, staging, prod)
-![SchemeAfter](/screenshoots/scheme-after.png)
+
+![SchemeAfter](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/scheme-after.png)
 
 4. Now Goes to Runner Projects And Info
-![Project](/screenshoots/info-project.png)
 
-    Then Duplicate all Configurations into 3 Config Each Like and rename it like this
-    ![AfterConfig](screenshoots/config-after.png)
+![Project](https://github.com/muhAzri/flutter_environment_generator/blob/main/screenshoots/info-project.png?raw=true)
+
+Then Duplicate all Configurations into 3 Config Each Like and rename it like this
+
+ ![AfterConfig](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/config-after.png)
 
 5. Now Edit the each Scheme into Using right Configurations
 Example For Staging Scheme using Debug staging, profile staging and release staging
-![example-staging-scheme](/screenshoots/staging-example.png)
+
+![example-staging-scheme](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/staging-example.png)
 
 6. For Changing App Label you can go to the runner Targets, Build Settings and search for Display 
-![app-label](/screenshoots/app-label.png)
+
+![app-label](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/app-label.png)
 
 7. You can Also Configure the App Bundle ID in the build Settings
-![app-label](/screenshoots/bundle_id.png)
+
+![app-label](https://github.com/muhAzri/flutter_environment_generator/raw/main/screenshoots/bundle_id.png)
 
 8. **Your IOS Should Be Configured And can be Builded**
 
