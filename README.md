@@ -6,6 +6,7 @@
 ![GitHub](https://img.shields.io/github/license/muhAzri/flutter_environment_generator)
 
 
+
 ## Warning
 
 - This Package Use Dart Define Feature For Environments configuration
@@ -151,4 +152,5 @@ For any issues or suggestions, please open an issue. Your feedback is highly app
 
 ## Author
 
-This project is created and maintained by [Onat Çipli](https://github.com/onatcipli).
+This project is created and maintained by [Muhammad Azri Fatihah Susanto](https://github.com/muhAzri).
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/muhaazri)
